@@ -1,14 +1,15 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/matthew-pinnock"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/MatthewPinnock"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi! I’m Matthew Pinnock, an aspiring IT professional with a passion for cybersecurity, programming, and problem-solving.
+I am currently a first-year Information Technology student at the University of Central Florida, focusing on Secure Computing and Networks.
+
+Welcome to my personal repository, where I showcase my skills, projects, and accomplishments as I continue to grow and contribute to the tech community.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am seeking a part-time position or internship at a mid- to large-sized company where I can apply my knowledge in information technology and cybersecurity while gaining professional experience.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
