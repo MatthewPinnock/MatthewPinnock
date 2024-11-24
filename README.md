@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Matthew Pinnock
 <a href="https://www.linkedin.com/in/matthew-pinnock"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi! I’m Matthew Pinnock, an aspiring IT professional with a passion for cybersecurity, programming, and problem-solving.
