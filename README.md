@@ -7,7 +7,7 @@ I am currently a first-year Information Technology student at the University of 
 Welcome to my personal repository, where I showcase my skills, projects, and accomplishments as I continue to grow and contribute to the tech community.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 I am seeking a part-time position or internship at a mid- to large-sized company where I can apply my knowledge in information technology and cybersecurity while gaining professional experience.
 
